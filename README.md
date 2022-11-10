@@ -7,11 +7,11 @@ I'll upload deep-learning and NLP, computer vision and alogorithm codes in here.
 I'll upload many practice codes in here and my works too.
 
 Your advice is always welcome.👋 Please contack me !!
+Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
-<h2> Attention is all you need <h2>
-- Read a lot and get your hands dirt 💪 - Yoshua Bengio
-- 🌱 Contact Me hear 🌱
-- My email : minkk0213@gmail.com 
+<h2> Attention is all you need🔎<h2>
+- 🌱 Contack me anytime 🌱
+- My email : minkk0213@gmail.com 💬
 - My blog  : https://meaningful0213.blogspot.com/
 
 <h2> My tech Stack✨ <h2>
