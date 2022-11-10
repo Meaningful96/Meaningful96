@@ -1,19 +1,23 @@
-## Hello there!!🌌
-I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Deep learning' and 'Graph Mining'. 
+# Hello there!!🌌
+I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Artificial Intelligence', 'Graph Mining' and 'Big data analysis'
 
-#### Mostly
-I'll upload deep-learning and NLP, computer vision and alogorithm codes in here. I'm planning to make a github blog for reminding and sharing what i studied.
-#### Also
-I'll upload many practice codes in here and my works too.
+## Mostly
+I'll upload deep-learning and NLP, computer vision and alogorithm codes in here. The codes are usually about data structure, many algorithm, basic deep-learning practice and the codes in many paper. Also i'll study NLP and computer vision. I'll use github for sharing my codes for junior developers and make it my growth diary. 🎓
+
+## Also
+I'm planning to make a github blog for reminding and sharing what i studied.
 
 Your advice is always welcome.👋 Please contack me !!
-Read a lot and get your hands dirt 💪 - Yoshua Bengio
+
+### Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
 <h2> 🔎Attention is all you need <h2>
+  
 - 🌱 Contack me anytime 🌱
 - My email : minkk0213@gmail.com 💬
 - My blog  : https://meaningful0213.blogspot.com/
-
+- My lab   : https://sites.google.com/view/hyudatalab 
+  
 <h2> My tech Stack✨ <h2>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
