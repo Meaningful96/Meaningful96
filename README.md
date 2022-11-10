@@ -1,10 +1,14 @@
-### Hello there!!👋 
-I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Deep learning' and 'Graph Mining'. I'm a junior developer in this moment. I'll use this format actively in order to grow into a great AI engineer. I'm planning to use github uploading NLP, DeepLearning, 
-Please contact me if you have any questions or want to give some advices. I'm waiting all your feedback!!!
+## Hello there!!🌌
+I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Deep learning' and 'Graph Mining'. 
 
+#### Mostly
+I'll upload deep-learning and NLP, computer vision and alogorithm codes in here. I'm planning to make a github blog for reminding and sharing what i studied.
+#### Also
+I'll upload many practice codes in here and my works too.
+
+Your advice is always welcome.👋 Please contack me !!
 **meaningful96/meaningful96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning basic Machine learning and Deep learning model, Data structures and Algorith
 - My email : minkk0213@gmail.com 
