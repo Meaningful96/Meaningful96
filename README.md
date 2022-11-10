@@ -9,9 +9,9 @@ I'll upload many practice codes in here and my works too.
 Your advice is always welcome.👋 Please contack me !!
 
 <h2> Attention is all you need <h2>
- Read a lot and get your hands dirt 💪 - Yoshua Bengio
+- Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
-- 🌱 I’m currently learning basic Machine learning and Deep learning model, Data structures and Algorith
+- 🌱 Contact Me hear 🌱
 - My email : minkk0213@gmail.com 
 - My blog  : https://meaningful0213.blogspot.com/
 
