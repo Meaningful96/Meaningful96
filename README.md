@@ -2,7 +2,6 @@
 I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Deep learning' and 'Graph Mining'. I'm a junior developer in this moment. I'll use this format actively in order to grow into a great AI engineer. I'm planning to use github uploading NLP, DeepLearning, 
 Please contact me if you have any questions or want to give some advices. I'm waiting all your feedback!!!
 
-<!--
 **meaningful96/meaningful96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
