@@ -7,8 +7,9 @@ I'll upload deep-learning and NLP, computer vision and alogorithm codes in here.
 I'll upload many practice codes in here and my works too.
 
 Your advice is always welcome.👋 Please contack me !!
-**meaningful96/meaningful96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### Remember
+### Read a lot and get your hands dirt - Yoshua Bengio
 
 - 🌱 I’m currently learning basic Machine learning and Deep learning model, Data structures and Algorith
 - My email : minkk0213@gmail.com 
