@@ -10,7 +10,6 @@ Your advice is always welcome.👋 Please contack me !!
 
 <h2> Attention is all you need <h2>
 - Read a lot and get your hands dirt 💪 - Yoshua Bengio
-
 - 🌱 Contact Me hear 🌱
 - My email : minkk0213@gmail.com 
 - My blog  : https://meaningful0213.blogspot.com/
