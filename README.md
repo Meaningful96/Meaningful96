@@ -15,7 +15,7 @@ Your advice is always welcome.👋 Please contack me !!
   
 - 🌱 Contack me anytime 🌱
 - My email : minkk0213@gmail.com 💬
-- My blog  : https://meaningful0213.blogspot.com/
+- My blog  : https://meaningful96.github.io/
 - My lab   : https://sites.google.com/view/hyudatalab 
   
 <h2> My tech Stack✨ <h2>
