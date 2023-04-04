@@ -1,5 +1,5 @@
 # Hello there!!🌌
-I'm a M.S student in Hanyang university in Seoul, Korea. I'm studying 'Artificial Intelligence', 'Graph Mining' and 'Big data analysis'
+I am a M.S student studying Artificial Intelligence, Graph Mining, and Big Data Analysis.
 
 ## Mostly
 I'll upload deep-learning and NLP, computer vision and alogorithm codes in here. The codes are usually about data structure, many algorithm, basic deep-learning practice and the codes in many paper. Also i'll study NLP and computer vision. I'll use github for sharing my codes for junior developers and make it my growth diary. 🎓
@@ -10,6 +10,8 @@ I'm planning to make a github blog for reminding and sharing what i studied.
 Your advice is always welcome.👋 Please contack me !!
 
 ### Read a lot and get your hands dirt 💪 - Yoshua Bengio
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaningful&show_icons=true&theme=radical)]
 
 <h2> 🔎Attention is all you need <h2>
   
