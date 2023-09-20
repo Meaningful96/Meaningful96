@@ -2,7 +2,7 @@
 I am a M.S student studying Artificial Intelligence, Graph Mining, and Big Data Analysis.
 
 ## Mostly
-I'll upload deep-learning and NLP, computer vision and alogorithm codes in here. The codes are usually about data structure, many algorithm, basic deep-learning practice and the codes in many paper. Also i'll study NLP and computer vision. I'll use github for sharing my codes for junior developers and make it my growth diary. 🎓
+I am delving into the domains of Knowledge Graph Completion, Graph Representation Learning, and Natural Language Processing. My aim is not only to upload codes pertaining to these subjects but also to deepen my understanding of their underlying principles. Additionally, to strengthen the foundation of my computational skills, I will be exploring data structures and algorithms. As I progress, I hope to contribute actively to the community, share insights, and engage in collaborative projects. 🎓
 
 ## Also
 I'm planning to make a github blog for reminding and sharing what i studied.
