@@ -1,11 +1,11 @@
-# Hello there!!🌌
+# Introduce🌌
 Ph.D student studying Knowledge Graph, Graph Mining, and Natural Language Processing.
 
 ## Mostly
 I am delving into the domains of Knowledge Graph Completion, Graph Representation Learning, and Natural Language Processing. My aim is not only to upload codes pertaining to these subjects but also to deepen my understanding of their underlying principles. Additionally, to strengthen the foundation of my computational skills, I will be exploring data structures and algorithms. As I progress, I hope to contribute actively to the community, share insights, and engage in collaborative projects. 🎓
 
 ## Also
-I'm planning to make a github blog for reminding and sharing what i studied.
+I'm planning to make a github blog for reminding and sharing what i studied.  
 
 Your advice is always welcome.👋 Please contack me !!
 
@@ -27,3 +27,4 @@ Your advice is always welcome.👋 Please contack me !!
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&Color=black">
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">
