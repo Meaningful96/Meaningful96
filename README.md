@@ -1,5 +1,11 @@
 # Introduce🌌
-Ph.D student studying Knowledge Graph Reasoning, Graph Mining, and Natural Language Processing.
+Ph.D student of the department of Artificial Intellegence at Hanyang University. 
+
+## Research Area
+  - Knowledge Graph Reasoning
+  - Knowledge Graph Completion
+  - Knowledge Graph Question Answering
+  - Natural Language Processing
 
 ## Mostly
 I am delving into the domains of Knowledge Graph Completion, Graph Representation Learning, and Natural Language Processing. My aim is not only to upload codes pertaining to these subjects but also to deepen my understanding of their underlying principles. Additionally, to strengthen the foundation of my computational skills, I will be exploring data structures and algorithms. As I progress, I hope to contribute actively to the community, share insights, and engage in collaborative projects. 🎓
