@@ -18,7 +18,7 @@ Your advice is always welcome.👋 Please contack me !!
 
 ### Read a lot and get your hands dirt 💪 - Yoshua Bengio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaningful96&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meaningful96&show_icons=true&theme=radical)] 
 
 <h2> 🔎Attention is all you need <h2>
   
