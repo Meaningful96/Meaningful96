@@ -1,14 +1,15 @@
 # Introduce🌌
-Ph.D student of the department of Artificial Intellegence at Hanyang University. 
+MS/Ph.D Integrated Student in Data Mining Lab, Hanyang University
 
 ## Research Area
-  - Knowledge Graph Reasoning
-  - Knowledge Graph Question Answering
+  - Knowledge Base Question Answering
+  - Multi-hop Question Answering
+  - Open-Domain Question Answering
   - Natural Language Processing
   - Knowledge Graph Completion
 
 ## Mostly
-I am currently studying question answering, with a focus on **Knowledge Base Question Answering (KBQA)**. My aim is not only to upload codes pertaining to these subjects but also to deepen my understanding of their underlying principles. Additionally, to strengthen the foundation of my computational skills, I will be exploring data structures and algorithms. As I progress, I hope to contribute actively to the community, share insights, and engage in collaborative projects. 🎓
+I'm studying **Question Answering(QA)** and **Knowledge Graph Reasoning**.  
 
 ## Also
 I'm planning to make a github blog for reminding and sharing what i studied.  
